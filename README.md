@@ -51,3 +51,8 @@ The page where all flights are displayed as being available.
 1. The user receives a flight notification that will aid in his booking.
 2. The user can choose the kind of airlines with which he wishes to fly.
 3. The seating configurations are visible to the user in the user interface.
+
+This was a team project.
+You can contact my other mates.
+1. [Harsh Raj](https://github.com/itsmeharsh01)
+2. [Nishi Jain](https://github.com/sfdtnishi)
